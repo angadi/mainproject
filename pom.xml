@@ -31,8 +31,8 @@
       
   <modules>
             
-    <module>project1</module>
-    <module>project2</module>
+    <module>/project1/aem-project1</module>
+    <module>/project2/aem-project2</module>
       
   </modules> 
                         
