@@ -1,8 +1,8 @@
 [submodule "project1"]
 	path = project1
 	url = https://github.com/angadi/project1.git
-	branch = main
+	branch = QA
 [submodule "project2"]
 	path = project2
 	url = https://github.com/angadi/project2.git
-	branch = main
+	branch = QA
