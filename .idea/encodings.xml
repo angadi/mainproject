@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/all/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/it.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/it.tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.apps.structure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.apps.structure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.apps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.config/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.frontend/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.frontend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project1/aem-project1/ui.tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/all/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/it.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/it.tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.apps.structure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.apps.structure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.apps/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.config/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.frontend/src/main/content/jcr_root" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.frontend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/project2/aem-project2/ui.tests/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
